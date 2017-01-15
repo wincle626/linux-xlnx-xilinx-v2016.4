@@ -1,0 +1,2 @@
+zynq-zed.o: arch/arm/boot/dts/zynq-zed.dts \
+ arch/arm/boot/dts/zynq-7000.dtsi
